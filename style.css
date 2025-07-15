@@ -1,0 +1,22 @@
+h1 {
+    color: brown;
+    font-family: sans-serif;
+    font-style: oblique;
+    
+}
+
+body {
+    text-align: center;
+
+}
+
+div {
+    padding-bottom: 10px;
+    margin-top: -10px;
+}
+
+.first,
+.second{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
