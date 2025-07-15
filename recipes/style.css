@@ -1,0 +1,38 @@
+body {
+    font-size: 19px;;
+}
+
+
+h1 {
+    color: brown;
+}
+
+
+.recipe-heading {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    margin-left: 0px;
+    color: rgb(85, 27, 27);
+}
+
+body {
+    margin-left: 300px;
+}
+ol li {
+    margin-top: 20px;
+    margin-bottom: 13px;
+    width: 800px;
+}
+
+img {
+    border: 1px solid black;
+}
+
+ul li {
+    margin: 5px;
+}
+
+p {
+    
+    width: 800px;
+}
